@@ -27,3 +27,4 @@ Open the terminal and write
 streamlit run app.py 
 
 
+Everythinh is ok 
